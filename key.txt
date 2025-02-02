@@ -1,0 +1,14 @@
+delegate
+hint:fried 1
+
+pubkey: 3tyMwjxLkzJrC3ErEqFQGruodDZMPcYnn8BFhDGhp5in
+============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+priority sauce media egg make funny riot happy bounce program minor disagree
+
+fried 2
+mintauth
+pubkey: 3X16LkvNNxFXKycAosP5yLxJQm8c47LBNJrSbu1qiyM5
+====================================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+mountain husband guilt chronic pupil before sudden armed aunt frame acoustic trigger
